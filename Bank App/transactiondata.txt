@@ -1,0 +1,10 @@
+AccountNumber = 0000
+Balance = 00
+AccountNumber = 2222
+Balance = 1500
+AccountNumber = 3333
+Balance = 10000
+AccountNumber = 4444
+Balance = 750
+AccountNumber = 1738
+Balance = 250
